@@ -1,3 +1,4 @@
+// The arduino connects directly to this page and passes the temperature and humidity values.
 <?php
 
 
